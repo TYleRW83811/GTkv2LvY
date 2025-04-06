@@ -14,7 +14,6 @@ checks:
       threshold: 35
 
   method-count:
-    enabled: false
 
   file-lines:
     config:
